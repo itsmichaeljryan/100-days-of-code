@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 1: October 28th, 2019 - Monday
+### Day 1: October 29th, 2019 - Monday
 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on HTML5. Specifically working on advanced text formatting, images, lists, tables, and advanced images formatting. Working through "A complete introductory tutorial on HTML5" found for free on Udemy. 
 
-**Thoughts:** 
+**Thoughts:** Honestly really enjoying it so far. Im having a harder time understanding gishub than I am HTML5.
 
-**Link to work:**
+**Link to work:** Im not sure how to link to my work yet. I will figure this out soon. 
 
 ### Day 2: October 29th, 2019 - Tuesday
 
