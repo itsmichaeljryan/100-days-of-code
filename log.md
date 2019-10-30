@@ -5,7 +5,7 @@
 
 **Today's Progress**: Worked on HTML5. Specifically working on advanced text formatting, images, lists, tables, and advanced images formatting. Working through "A complete introductory tutorial on HTML5" found for free on Udemy. 
 
-**Thoughts:** Honestly really enjoying it so far. Im having a harder time understanding gishub than I am HTML5.
+**Thoughts:** Honestly really enjoying it so far. Im having a harder time understanding github than I am HTML5.
 
 **Link to work:** Im not sure how to link to my work yet. I will figure this out soon. 
 
